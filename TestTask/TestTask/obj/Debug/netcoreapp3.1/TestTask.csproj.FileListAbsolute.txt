@@ -1,0 +1,12 @@
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/bin/Debug/netcoreapp3.1/TestTask.deps.json
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/bin/Debug/netcoreapp3.1/TestTask.runtimeconfig.json
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/bin/Debug/netcoreapp3.1/TestTask.runtimeconfig.dev.json
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/bin/Debug/netcoreapp3.1/TestTask.dll
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/bin/Debug/netcoreapp3.1/TestTask.pdb
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.csprojAssemblyReference.cache
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.AssemblyInfoInputs.cache
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.AssemblyInfo.cs
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.csproj.CoreCompileInputs.cache
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.dll
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.pdb
+/Users/alisakacanova/Desktop/Программирование/TestTask/TestTask/obj/Debug/netcoreapp3.1/TestTask.genruntimeconfig.cache
