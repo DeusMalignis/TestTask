@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8B61E959-99A8-ED12-802B-CB36232CD8AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Close.cs">
+    <Files>
+      <File FileName="Assets/ButtonVis.cs" Line="18" Column="28" />
+      <File FileName="Assets/Close.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTask2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aff7ca71-72bc-42d8-bf90-d683f167949a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
